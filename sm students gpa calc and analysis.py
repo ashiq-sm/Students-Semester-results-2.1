@@ -4,6 +4,7 @@ student_data = {
         'GEB 211': 3.25,
         'GEB 212': 2.25,
         'GEB 213': 3.25,
+        'GEB 217': 3.25,  # Added
         'GEB 221': 3.5,
         'GEB 223': 3.25,
         'GEB 224': 3.0,
@@ -14,6 +15,7 @@ student_data = {
         'GEB 211': 3.5,
         'GEB 212': 3.25,
         'GEB 213': 3.5,
+        'GEB 217': 3.25,  # Added
         'GEB 221': 3.25,
         'GEB 223': 3.0,
         'GEB 224': 3.75,
@@ -22,8 +24,9 @@ student_data = {
     '2020431038': {
         'Name': 'MD. ABDULLAH AL MASUD',
         'GEB 211': 0.0,
-        'GEB 212': 0.0,  # Assuming missing grade as 0.0 since not listed
+        'GEB 212': 0.0,
         'GEB 213': 0.0,
+        'GEB 217': 0.0,  # Added
         'GEB 221': 0.0,
         'GEB 223': 0.0,
         'GEB 224': 0.0,
@@ -34,6 +37,7 @@ student_data = {
         'GEB 211': 3.25,
         'GEB 212': 3.75,
         'GEB 213': 3.5,
+        'GEB 217': 3.0,  # Added
         'GEB 221': 3.25,
         'GEB 223': 3.0,
         'GEB 224': 3.75,
@@ -44,6 +48,7 @@ student_data = {
         'GEB 211': 4.0,
         'GEB 212': 3.75,
         'GEB 213': 4.0,
+        'GEB 217': 3.25,  # Added
         'GEB 221': 3.75,
         'GEB 223': 3.5,
         'GEB 224': 3.5,
@@ -54,6 +59,7 @@ student_data = {
         'GEB 211': 3.75,
         'GEB 212': 3.75,
         'GEB 213': 4.0,
+        'GEB 217': 3.0,  # Added
         'GEB 221': 4.0,
         'GEB 223': 3.25,
         'GEB 224': 3.75,
@@ -64,6 +70,7 @@ student_data = {
         'GEB 211': 3.5,
         'GEB 212': 3.75,
         'GEB 213': 3.75,
+        'GEB 217': 2.75,  # Added
         'GEB 221': 3.25,
         'GEB 223': 3.5,
         'GEB 224': 4.0,
@@ -74,6 +81,7 @@ student_data = {
         'GEB 211': 3.75,
         'GEB 212': 3.75,
         'GEB 213': 4.0,
+        'GEB 217': 3.5,  # Added
         'GEB 221': 3.5,
         'GEB 223': 3.25,
         'GEB 224': 4.0,
@@ -84,6 +92,7 @@ student_data = {
         'GEB 211': 4.0,
         'GEB 212': 3.75,
         'GEB 213': 4.0,
+        'GEB 217': 3.75,  # Added
         'GEB 221': 3.75,
         'GEB 223': 3.75,
         'GEB 224': 3.0,
@@ -94,6 +103,7 @@ student_data = {
         'GEB 211': 3.75,
         'GEB 212': 3.75,
         'GEB 213': 4.0,
+        'GEB 217': 3.5,  # Added
         'GEB 221': 3.75,
         'GEB 223': 3.25,
         'GEB 224': 3.75,
@@ -104,6 +114,7 @@ student_data = {
         'GEB 211': 3.75,
         'GEB 212': 3.25,
         'GEB 213': 3.75,
+        'GEB 217': 3.75,  # Added
         'GEB 221': 3.75,
         'GEB 223': 3.25,
         'GEB 224': 3.75,
@@ -114,6 +125,7 @@ student_data = {
         'GEB 211': 3.5,
         'GEB 212': 3.5,
         'GEB 213': 3.75,
+        'GEB 217': 3.5,  # Added
         'GEB 221': 3.5,
         'GEB 223': 3.25,
         'GEB 224': 3.75,
@@ -124,6 +136,7 @@ student_data = {
         'GEB 211': 3.75,
         'GEB 212': 3.75,
         'GEB 213': 3.75,
+        'GEB 217': 3.25,  # Added
         'GEB 221': 3.5,
         'GEB 223': 3.5,
         'GEB 224': 3.5,
@@ -134,6 +147,7 @@ student_data = {
         'GEB 211': 4.0,
         'GEB 212': 3.25,
         'GEB 213': 4.0,
+        'GEB 217': 3.5,  # Added
         'GEB 221': 3.75,
         'GEB 223': 3.5,
         'GEB 224': 3.75,
@@ -144,6 +158,7 @@ student_data = {
         'GEB 211': 3.75,
         'GEB 212': 2.25,
         'GEB 213': 3.5,
+        'GEB 217': 3.0,  # Added
         'GEB 221': 3.25,
         'GEB 223': 0.0,
         'GEB 224': 4.0,
@@ -154,6 +169,7 @@ student_data = {
         'GEB 211': 4.0,
         'GEB 212': 3.5,
         'GEB 213': 4.0,
+        'GEB 217': 3.75,  # Added
         'GEB 221': 3.5,
         'GEB 223': 3.25,
         'GEB 224': 3.25,
@@ -164,6 +180,7 @@ student_data = {
         'GEB 211': 3.75,
         'GEB 212': 3.75,
         'GEB 213': 3.75,
+        'GEB 217': 3.75,  # Added
         'GEB 221': 4.0,
         'GEB 223': 3.25,
         'GEB 224': 4.0,
@@ -174,6 +191,7 @@ student_data = {
         'GEB 211': 4.0,
         'GEB 212': 3.0,
         'GEB 213': 2.75,
+        'GEB 217': 2.25,  # Added
         'GEB 221': 2.75,
         'GEB 223': 2.25,
         'GEB 224': 3.25,
@@ -184,6 +202,7 @@ student_data = {
         'GEB 211': 3.75,
         'GEB 212': 3.75,
         'GEB 213': 3.75,
+        'GEB 217': 3.25,  # Added
         'GEB 221': 3.75,
         'GEB 223': 3.0,
         'GEB 224': 3.5,
@@ -194,6 +213,7 @@ student_data = {
         'GEB 211': 3.75,
         'GEB 212': 4.0,
         'GEB 213': 4.0,
+        'GEB 217': 4.0,  # Added
         'GEB 221': 4.0,
         'GEB 223': 3.5,
         'GEB 224': 3.75,
@@ -204,6 +224,7 @@ student_data = {
         'GEB 211': 3.75,
         'GEB 212': 4.0,
         'GEB 213': 4.0,
+        'GEB 217': 3.75,  # Added
         'GEB 221': 3.75,
         'GEB 223': 3.25,
         'GEB 224': 3.5,
@@ -214,6 +235,7 @@ student_data = {
         'GEB 211': 4.0,
         'GEB 212': 3.75,
         'GEB 213': 4.0,
+        'GEB 217': 3.75,  # Added
         'GEB 221': 3.75,
         'GEB 223': 3.5,
         'GEB 224': 4.0,
@@ -224,6 +246,7 @@ student_data = {
         'GEB 211': 3.25,
         'GEB 212': 3.75,
         'GEB 213': 2.0,
+        'GEB 217': 0.0,  # Added
         'GEB 221': 3.25,
         'GEB 223': 3.25,
         'GEB 224': 2.75,
@@ -234,6 +257,7 @@ student_data = {
         'GEB 211': 3.25,
         'GEB 212': 3.75,
         'GEB 213': 0.0,
+        'GEB 217': 2.25,  # Added
         'GEB 221': 0.0,
         'GEB 223': 3.25,
         'GEB 224': 3.0,
@@ -244,6 +268,7 @@ student_data = {
         'GEB 211': 4.0,
         'GEB 212': 3.75,
         'GEB 213': 4.0,
+        'GEB 217': 3.75,  # Added
         'GEB 221': 3.75,
         'GEB 223': 3.75,
         'GEB 224': 3.75,
@@ -254,6 +279,7 @@ student_data = {
         'GEB 211': 3.5,
         'GEB 212': 3.75,
         'GEB 213': 3.5,
+        'GEB 217': 2.75,  # Added
         'GEB 221': 3.5,
         'GEB 223': 3.0,
         'GEB 224': 3.0,
@@ -264,6 +290,7 @@ student_data = {
         'GEB 211': 3.5,
         'GEB 212': 3.75,
         'GEB 213': 3.25,
+        'GEB 217': 3.25,  # Added
         'GEB 221': 3.25,
         'GEB 223': 3.5,
         'GEB 224': 3.0,
@@ -274,6 +301,7 @@ student_data = {
         'GEB 211': 3.5,
         'GEB 212': 3.5,
         'GEB 213': 2.75,
+        'GEB 217': 3.0,  # Added
         'GEB 221': 3.5,
         'GEB 223': 3.25,
         'GEB 224': 3.25,
@@ -284,6 +312,7 @@ student_data = {
         'GEB 211': 3.25,
         'GEB 212': 3.25,
         'GEB 213': 3.0,
+        'GEB 217': 2.25,  # Added
         'GEB 221': 2.75,
         'GEB 223': 3.0,
         'GEB 224': 3.0,
@@ -294,6 +323,7 @@ student_data = {
         'GEB 211': 3.0,
         'GEB 212': 2.5,
         'GEB 213': 3.25,
+        'GEB 217': 2.25,  # Added
         'GEB 221': 2.75,
         'GEB 223': 3.0,
         'GEB 224': 3.0,
@@ -304,6 +334,7 @@ student_data = {
         'GEB 211': 3.25,
         'GEB 212': 3.5,
         'GEB 213': 3.0,
+        'GEB 217': 2.25,  # Added
         'GEB 221': 3.0,
         'GEB 223': 2.75,
         'GEB 224': 3.25,
@@ -314,6 +345,7 @@ student_data = {
         'GEB 211': 3.75,
         'GEB 212': 3.75,
         'GEB 213': 3.75,
+        'GEB 217': 3.75,  # Added
         'GEB 221': 4.0,
         'GEB 223': 3.75,
         'GEB 224': 3.75,
@@ -324,6 +356,7 @@ student_data = {
         'GEB 211': 4.0,
         'GEB 212': 4.0,
         'GEB 213': 4.0,
+        'GEB 217': 3.75,  # Added
         'GEB 221': 3.75,
         'GEB 223': 3.75,
         'GEB 224': 3.75,
@@ -334,6 +367,7 @@ student_data = {
         'GEB 211': 4.0,
         'GEB 212': 4.0,
         'GEB 213': 3.75,
+        'GEB 217': 3.5,  # Added
         'GEB 221': 3.75,
         'GEB 223': 3.75,
         'GEB 224': 3.75,
@@ -344,6 +378,7 @@ student_data = {
         'GEB 211': 3.5,
         'GEB 212': 3.25,
         'GEB 213': 4.0,
+        'GEB 217': 3.5,  # Added
         'GEB 221': 3.25,
         'GEB 223': 3.75,
         'GEB 224': 3.75,
@@ -354,6 +389,7 @@ student_data = {
         'GEB 211': 3.5,
         'GEB 212': 3.5,
         'GEB 213': 3.25,
+        'GEB 217': 2.25,  # Added
         'GEB 221': 3.25,
         'GEB 223': 3.75,
         'GEB 224': 3.0,
@@ -367,6 +403,7 @@ def calculate_gpa(student):
         'GEB 211': {'credit': 3.0},
         'GEB 212': {'credit': 1.0},
         'GEB 213': {'credit': 3.0},
+        'GEB 217': {'credit': 3.0},  # Added
         'GEB 221': {'credit': 2.0},
         'GEB 223': {'credit': 3.0},
         'GEB 224': {'credit': 1.0},
@@ -398,12 +435,12 @@ def display_sorted_students(student_data):
     sorted_students = sorted(students_with_gpa, key=lambda x: x['GPA'], reverse=True)
 
     # Print table header
-    print(f"| {'Registration No.':<15} | {'Student\'s Name':<25} | {'GPA':<5} | {'GEB 211':<7} | {'GEB 212':<7} | {'GEB 213':<7} | {'GEB 221':<7} | {'GEB 223':<7} | {'GEB 224':<7} | {'GEB 225':<7} |")
-    print("-" * 110)
+    print(f"| {'Registration No.':<15} | {'Student\'s Name':<25} | {'GPA':<5} | {'GEB 211':<7} | {'GEB 212':<7} | {'GEB 213':<7} | {'GEB 217':<7} | {'GEB 221':<7} | {'GEB 223':<7} | {'GEB 224':<7} | {'GEB 225':<7} |")
+    print("-" * 120)
 
     # Print each student's data
     for student in sorted_students:
-        print(f"| {student['Registration No.']:<15} | {student['Name']:<25} | {student['GPA']:<5.2f} | {student.get('GEB 211', '-'):>7} | {student.get('GEB 212', '-'):>7} | {student.get('GEB 213', '-'):>7} | {student.get('GEB 221', '-'):>7} | {student.get('GEB 223', '-'):>7} | {student.get('GEB 224', '-'):>7} | {student.get('GEB 225', '-'):>7} |")
+        print(f"| {student['Registration No.']:<15} | {student['Name']:<25} | {student['GPA']:<5.2f} | {student.get('GEB 211', '-'):>7} | {student.get('GEB 212', '-'):>7} | {student.get('GEB 213', '-'):>7} | {student.get('GEB 217', '-'):>7} | {student.get('GEB 221', '-'):>7} | {student.get('GEB 223', '-'):>7} | {student.get('GEB 224', '-'):>7} | {student.get('GEB 225', '-'):>7} |")
 
 def calculate_course_averages(student_data):
     course_totals = {}
@@ -427,12 +464,11 @@ def calculate_course_averages(student_data):
 
 def display_course_averages(student_data):
     course_averages = calculate_course_averages(student_data)
-
-    # Course metadata
     course_metadata = {
         'GEB 211': {'title': 'Animal and Human Physiology', 'credit': 3.0},
         'GEB 212': {'title': 'Animal and Human Physiology Lab', 'credit': 1.0},
         'GEB 213': {'title': 'Molecular Biology', 'credit': 3.0},
+        'GEB 217': {'title': 'Enzymology', 'credit': 3.0},  # Added
         'GEB 221': {'title': 'Animal Reproduction and Embryology', 'credit': 2.0},
         'GEB 223': {'title': 'Biofertilizer and Renewable Energy', 'credit': 3.0},
         'GEB 224': {'title': 'Biofertilizer and Renewable Energy Lab', 'credit': 1.0},
@@ -462,12 +498,12 @@ def display_top_students(student_data, n):
     sorted_students = sorted(students_with_gpa, key=lambda x: x['GPA'], reverse=True)[:n]
 
     # Print table header
-    print(f"| {'Registration No.':<15} | {'Student\'s Name':<25} | {'GPA':<5} | {'GEB 211':<7} | {'GEB 212':<7} | {'GEB 213':<7} | {'GEB 221':<7} | {'GEB 223':<7} | {'GEB 224':<7} | {'GEB 225':<7} |")
-    print("-" * 110)
+    print(f"| {'Registration No.':<15} | {'Student\'s Name':<25} | {'GPA':<5} | {'GEB 211':<7} | {'GEB 212':<7} | {'GEB 213':<7} | {'GEB 217':<7} | {'GEB 221':<7} | {'GEB 223':<7} | {'GEB 224':<7} | {'GEB 225':<7} |")
+    print("-" * 120)
 
     # Print each student's data
     for student in sorted_students:
-        print(f"| {student['Registration No.']:<15} | {student['Name']:<25} | {student['GPA']:<5.2f} | {student.get('GEB 211', '-'):>7} | {student.get('GEB 212', '-'):>7} | {student.get('GEB 213', '-'):>7} | {student.get('GEB 221', '-'):>7} | {student.get('GEB 223', '-'):>7} | {student.get('GEB 224', '-'):>7} | {student.get('GEB 225', '-'):>7} |")
+        print(f"| {student['Registration No.']:<15} | {student['Name']:<25} | {student['GPA']:<5.2f} | {student.get('GEB 211', '-'):>7} | {student.get('GEB 212', '-'):>7} | {student.get('GEB 213', '-'):>7} | {student.get('GEB 217', '-'):>7} | {student.get('GEB 221', '-'):>7} | {student.get('GEB 223', '-'):>7} | {student.get('GEB 224', '-'):>7} | {student.get('GEB 225', '-'):>7} |")
 
 # Call the function to display the sorted table
 # display_sorted_students(student_data)
